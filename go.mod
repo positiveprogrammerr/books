@@ -1,4 +1,4 @@
-module github.com/positiveprogrammerr/bookstore
+module github.com/positiveprogrammerr/books
 
 go 1.21.5
 
